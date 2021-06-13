@@ -3,6 +3,7 @@
 int main()
 {
     double a, b, c;
+    std::cout << "Digite 3 valores para verificar se eles correspondem aos lados de um triângulo retângulo: ";
     std::cin >> a >> b >> c;
 
     if (a >= b && a >= c) {
