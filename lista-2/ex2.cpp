@@ -16,6 +16,5 @@ int main()
         termo2 = soma; // Define a soma como o último termo
     }
     std::cout << "Valor do " << num << "º termo: " << termo1;
-    
     return 0;
 }

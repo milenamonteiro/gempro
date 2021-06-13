@@ -12,6 +12,5 @@ int main()
         fatorial *= i;
     }
     std::cout << num << "! = " << fatorial;
-
     return 0;
 }

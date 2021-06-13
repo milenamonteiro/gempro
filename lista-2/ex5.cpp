@@ -12,4 +12,5 @@ int main()
         if (i == j) soma += valor;
     }
     std::cout << "Soma dos números da diagonal principal: " << soma;
+    return 0;
 }

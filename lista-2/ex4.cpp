@@ -10,6 +10,5 @@ int main()
         std::cout << matriz[i][j] << " ";
         if (j == 2) std::cout << "\n"; // quando chega no fim da linha
     }
-
     return 0;
 }

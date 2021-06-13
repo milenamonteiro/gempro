@@ -8,4 +8,5 @@ int main()
         std::cin >> num;
         if (num > 0) std::cout << "Errado. Tente novamente.\n";
     }
+    return 0;
 }
